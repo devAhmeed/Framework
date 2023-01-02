@@ -1,0 +1,15 @@
+{
+  "name": "devahmed/framework",
+  "autoload": {
+    "psr-4": {
+      "Ahmed\\Framework\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Ahmed Hisham",
+      "email": "ahmedhishamkamal@icloud.com"
+    }
+  ],
+  "require": {}
+}
